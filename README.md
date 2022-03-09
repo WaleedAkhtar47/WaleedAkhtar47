@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WaleedAkhtar47
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Web Development
+- 💞️ I’m looking to collaborate on Web Development ideas
 - 📫 How to reach me waleed.malik4437@gmail.com
 
 <!---
